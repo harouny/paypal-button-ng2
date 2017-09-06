@@ -1,10 +1,9 @@
 import * as ngCore from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 
 
-@NgModule({
+@ngCore.NgModule({
   declarations: [
     AppComponent
   ],
