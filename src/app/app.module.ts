@@ -14,6 +14,5 @@ import { AppComponent } from './app.component';
   ],
   providers: [ ],
   bootstrap: [AppComponent],
-  schemas: [ ngCore.CUSTOM_ELEMENTS_SCHEMA ]
 })
 export class AppModule { }
